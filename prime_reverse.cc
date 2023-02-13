@@ -27,5 +27,6 @@ cout << st <<endl;
 int main(){
 cout << prime(7)<<endl;
 reverse("CELEBAI");
+even_odd(5);
 return 0;
 }
